@@ -1,0 +1,12 @@
+body {
+    a:link {color: #000000;}      /* 未访问链接*/
+    a:visited {color: #000000;}  /* 已访问链接 */
+    a:hover {color: #002aff;}  /* 鼠标移动到链接上 */
+    a:active {color: #001688;}
+    button {
+        a:link {color: #000000;}      /* 未访问链接*/
+        a:visited {color: #000000;}  /* 已访问链接 */
+        a:hover {color: #002aff;}  /* 鼠标移动到链接上 */
+        a:active {color: #001688;}
+    }
+}
